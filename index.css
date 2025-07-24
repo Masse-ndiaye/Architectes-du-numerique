@@ -1,0 +1,151 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: gray;
+    box-shadow: 50px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-right: 30px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+   list-style: none;
+  
+}
+.logo{
+    color:white;
+    margin-left: 30px; ;
+}
+ li a:hover{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.log{
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color:lightgray;
+    color: black;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 0  0 10px rgb(rgb(49, 45, 45), rgb(20, 24, 20), rgb(29, 29, 32));
+    overflow: hidden;
+}
+h3{
+    margin-left: 30px;
+}
+.header p{
+    margin-left: 50px;
+}
+.from-header{
+    border-bottom: 1px solid #0f0f0f;
+    padding: 20px 40px;
+}
+.input-box{
+    padding-bottom: 20px;
+    position:relative;
+}
+.input-box label{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.input-box input{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border: 2px solid #0f0f0f;
+    border-radius:  5px;
+    outline: none;
+    font-size: 14px;
+}
+.alert p{
+    margin:3px 0;
+    padding: 3px;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 1.5;
+    color:black
+}
+.alert a {
+    text-decoration:none;
+    color: black;
+    font-weight: bold;
+}
+.alert a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.btn{
+    background-color: lightgray;
+    padding: 10px;
+    width: 100%;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color:chocolate;
+    color: white;
+    cursor: pointer;
+}
+form{
+    padding: 30px 40px ;
+}
+.input-box{
+    padding-bottom: 20px;
+    position:relative;
+}
+.input-box label{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.input-box input{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border: 2px solid #0f0f0f;
+    border-radius: 5px;
+    outline: none;
+    font-size: 19px;
+    
+    }
+.ens{
+    display: flex;
+    justify-content: flex-start;
+    background-color: lightgray;
+    background-image:url(../MEDIAS/d.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kande{
+    display: flex;
+    justify-content: space-between;
+}
+marquee{
+    background-color: lightgray;
+    padding: 10px;
+}
+sup{
+    color: chocolate;
+}
+.production
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.masse{
+    margin-right: 30px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+}
