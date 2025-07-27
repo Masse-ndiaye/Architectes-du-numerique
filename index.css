@@ -83,7 +83,7 @@ h3{
 }
 .alert a:hover{
     text-decoration: underline;
-    color: black;
+    color: chocolate;
 }
 .btn{
     background-color: lightgray;
@@ -146,6 +146,10 @@ sup{
 .masse{
     margin-right: 30px;
     padding: 10px;
-    background-color: black;
+    background-color:lightgray;
+    color:chocolate;
     border-radius: 10px;
+}
+.momy sup{
+    color: black;
 }

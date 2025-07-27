@@ -20,7 +20,7 @@
     font-size: 14px;
 }
 .micro{
-    color: white;
+    color: gray;
     font-size: 20px;
     margin-left: 10px;
     cursor: pointer;
@@ -29,12 +29,60 @@
     width: 20px;
     height: 20px;
 }
+.super{
+    font-size: 20px;
+    margin-left: 20px;
+}
 .btn{
-    background-color: black;
-    color: white;
+    background-color:lightgray;
+    color: black;
     border: none;
     border-radius: 20px;
     padding: 10px 15px;
+    margin-right: 70px;
     width: 150px;
+    font-size: 20px;
+    }
+.btn:hover{
+    background-color: black;
+    color: white;
     cursor: pointer;
 }
+.na{
+    display: flex;
+    justify-content: space-between;
+}
+.sall
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.masse{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.masse .papa img{
+     width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    gap: 30px;
+}
+.btnt{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btnt:hover{
+background-color: black;
+    color: white;
+}
+.titre{
+    margin-top: 20px;
+}
+.chambre{
+    display: flex;
+  
+}
+
