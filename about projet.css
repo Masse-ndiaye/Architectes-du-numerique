@@ -1,0 +1,70 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ABOUT1 h1 {
+    justify-content: center;
+    margin: 290px;
+    font-style: italic;
+}
+.ABOUT1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-image: url(RESTAURANT\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-left: 50px;
+    color: white;
+}
+h1{
+    justify-content: center;
+    font-style: italic;
+}
+p{
+    justify-content: center;
+}
+.chefmass{
+    display: flex;
+    justify-content: space-between;
+    gap: 250px;
+    background-color:lightgray;
+}
+ .cuisine img{
+    width: 300px;
+    height: 300px;
+}
+.employer {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color:lightgray;
+}
+.employer img{
+    width: 300px;
+    height: 300px;
+}
+.employer h2{
+    font-size: 25px;
+}
+.employer >.employer1{
+    box-shadow: 3px 3px 3px maroon;
+}
+.FORCE{
+     display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-image: url(noir.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-left: 50px;
+    color: white;
+}
+.FORCE h1{
+    margin: 250px;
+    color: white;
+}
