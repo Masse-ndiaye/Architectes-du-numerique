@@ -1,0 +1,144 @@
+.container{
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+    border-radius: 30px;
+    padding: 10px 15px;
+    width: 75%;
+    margin-left: 20px;
+}
+.container input{
+    border: none;
+    background: transparent;
+    outline: none;
+    flex: 1;
+    display: block;
+    padding: 10px;
+    border: 2px solid #0f0f0f;
+    border-radius:  5px;
+    outline: none;
+    font-size: 14px;
+}
+.micro{
+    color: gray;
+    font-size: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.micro img{
+    width: 20px;
+    height: 20px;
+}
+.super{
+    font-size: 27px;
+    margin-left: 20px;
+}
+.super p{
+    font-size: 20px;
+}
+.btn{
+    background-color:lightgray;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+    margin-right: 70px;
+    width: 150px;
+    font-size: 20px;
+    }
+.btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.na{
+    display: flex;
+    justify-content: space-between;
+
+}
+.sall
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.papa img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50% 10%;
+
+   
+}
+.papa{
+ display: grid;
+    grid-template-columns: 22% 22%  22% 22% ;
+    gap: 37px;
+    margin-left: 5%;
+}
+p{
+    margin-top: 5%;
+    background-color:lightgray;
+    padding: 15px;
+    margin-left: 10px;
+}
+.amy img{
+    width: 250px;
+    height: 250px;
+    border-radius:  50px;
+}
+.amy{
+    display: grid;
+    grid-template-columns: 22% 22%  22% 22% ;
+    gap: 37px;
+     margin-top: 5%;
+    margin-left: 5%;
+}
+.erreur{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
