@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 .FOOT{
- background-image: url(../MEDIAS/er.jpeg);
+ background-image:url(MEDIAS/er.jpeg);
     background-size: cover;
   background-color: lightgray;
 }
