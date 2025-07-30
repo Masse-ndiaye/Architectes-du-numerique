@@ -1,0 +1,46 @@
+body{
+    background-color:darkgray ;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:lightgray;
+    padding: 5px;
+}
+ol{
+    list-style-type: none;
+    padding: 10px;
+    border-bottom: solid;
+    border-color: grey;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: black;
+}
+.bloc-resto{
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.confirme{
+    text-align: center;
+    margin: 20px;
+}
+.reservation{
+    
+    border-bottom: groove;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    border-bottom: groove;
+}
